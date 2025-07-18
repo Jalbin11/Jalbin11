@@ -1,8 +1,8 @@
 ## Jacob Albin! 👋 
-A Versatile Technical Business Analyst specializing in automation, data analysis, and AI, with a proven history of delivering effective, goal-aligned solutions.
-
 **🔗 Connect With Me**
 📈 https://www.linkedin.com/in/jacob-albin-540b80196
+
+A Versatile Technical Business Analyst specializing in automation, data analysis, and AI, with a proven history of delivering effective, goal-aligned solutions.
 
 🚀 About Me
 I thrive at the intersection of technology and business strategy. My expertise lies in automating complex workflows, leveraging data for actionable insights, and driving efficiency across technical operations. I'm deeply committed to fostering strong relationships and collaborative teamwork to achieve impactful results.
