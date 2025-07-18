@@ -5,7 +5,7 @@
 A Versatile Technical Business Analyst specializing in automation, data analysis, and AI, with a proven history of delivering effective, goal-aligned solutions.
 
 🚀 About Me
-I thrive at the intersection of technology and business strategy. My expertise lies in automating complex workflows, leveraging data for actionable insights, and driving efficiency across technical operations. I'm deeply committed to fostering strong relationships and collaborative teamwork to achieve impactful results.
+I thrive between business strategy and technology requirements. My expertise lies in automating complex workflows, leveraging data for actionable insights, and driving efficiency across technical operations. I'm deeply committed to fostering strong relationships and collaborative teamwork to achieve impactful results.
 
   🔭 Currently focused on: Advanced automation strategies and AI/ML applications in business processes.
   📍 Based in: Dallas, TX, USA
@@ -27,6 +27,3 @@ AI Tools & Automation, APIs & Integrations, Cloud Data, Reporting, Presentation,
   Product Development: Oversaw development of 15+ key features for scheduling SaaS, enhancing selection algorithms for significant ARR impact (Veryable).
   
   Technical Communication: Provided WCS expertise and presented complex technical concepts clearly to diverse audiences during major system rollouts (Nike).
-
-**🔗 Connect With Me**
-📈 https://www.linkedin.com/in/jacob-albin-540b80196
